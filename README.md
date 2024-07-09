@@ -48,9 +48,8 @@ Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
                            Second Level Address Translation: Yes
                            Data Execution Prevention Available: Yes
 
-C:\Users\ASUSTeK>SYSTEMINFO
 
-<!---
+<!--
 bisaaagini/bisaaagini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
